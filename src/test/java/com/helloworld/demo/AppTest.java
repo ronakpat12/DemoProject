@@ -1,4 +1,4 @@
-package com.helloworld.demo;
+package test.java.com.helloworld.demo;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
