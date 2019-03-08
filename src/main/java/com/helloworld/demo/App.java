@@ -14,5 +14,6 @@ public class App
         System.out.println("new branch commit1");
         System.out.println("commit222222");
         System.out.println("commit33333");
+        System.out.println("childbranch");
     }
 }
