@@ -12,5 +12,6 @@ public class App
         System.out.println( "nisha's changes" );
         System.out.println( "My added line" );
         System.out.println("new branch commit1");
+        System.out.println("childbranch commit2");
     }
 }
